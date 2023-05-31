@@ -2,7 +2,7 @@
 
 ### Order of doing this project:
 1. Drawing the ER diagram including the entities and the relationships between them along with the corresponding attributes
-2. Preparing the interface model corresponding to the ER diagram
+2. Preparing the relational diagram.
 3. Writing algebraic expressions of the interfaces corresponding to the assigned questions
 4. Database designed with SQL commands
 5. Writing queries corresponding to the requested questions
@@ -75,3 +75,6 @@ Suppose a software company is considering systems to manage and process informat
 
   B. General financial records as well as financial records by members of the research activity
 
+<br>
+use this website to open drawio filles
+https://app.diagrams.net/
