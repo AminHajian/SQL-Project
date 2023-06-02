@@ -15,7 +15,4 @@
 5. <b>JOIN:</b> Use the JOIN keyword to combine data from multiple tables based on a common column. You can perform different types of joins such as INNER JOIN, LEFT JOIN, RIGHT JOIN, or FULL JOIN depending on your requirements.
 
 
-<br>
-use this website to open drawio filles
 
-[drawio](https://app.diagrams.net/)
