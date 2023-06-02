@@ -28,6 +28,15 @@ CREATE TABLE research_activity_category (
     PRIMARY KEY(id)
 );
 
+CREATE TABLE researcher_institute (
+	researcher_id INT,
+	institute_id INT,
+	current_researcher BOOLEAN, 
+	FOREIGN KEY(researcher_id) REFERENCES researcher(id),
+    FOREIGN KEY(institute_id) REFERENCES institute(id) 
+
+);
+
 CREATE TABLE institute (
     id INT AUTO_INCREMENT,
     institute_type_id INT,
