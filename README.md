@@ -79,3 +79,4 @@ Suppose a software company is considering systems to manage and process informat
 use this website to open drawio filles
 
 [drawio](https://app.diagrams.net/)
+vim: syntax=SQL
